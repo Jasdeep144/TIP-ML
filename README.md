@@ -1,1 +1,1 @@
-This is your ML assignment
+TIP and TIP-2 are your ML assignments
